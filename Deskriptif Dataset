@@ -1,0 +1,9 @@
+| No | Variabel         | Minimum | Maksimum | Rata-rata | Median | Standar Deviasi | Satuan |
+| -- | ---------------- | ------- | -------- | --------- | ------ | --------------- | ------ |
+| 1  | Panjang Batang   | 4.5     | 8.6      | 6.64      | 6.7    | 1.12            | Meter  |
+| 2  | Diameter Batang  | 11      | 26       | 18.86     | 19     | 3.69            | mm     |
+| 3  | Kerapatan        | 0.48    | 0.79     | 0.65      | 0.66   | 0.09            | g/cm³  |
+| 4  | Kadar Air        | 14      | 30       | 20.81     | 20     | 4.12            | %      |
+| 5  | Lama Pengeringan | 2       | 11       | 6.25      | 6      | 2.23            | Hari   |
+| 6  | Cacat Fisik      | 0       | 20       | 7.30      | 6      | 5.48            | %      |
+| 7  | Harga Jual       | 4600    | 11500    | 8155      | 8400   | 1858            | Rp/kg  |
