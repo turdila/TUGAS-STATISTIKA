@@ -1,0 +1,7 @@
+| No | Metrik                     | Nilai           | Keterangan                                  |
+| -- | -------------------------- | --------------- | ------------------------------------------- |
+| 1  | MAE (Mean Absolute Error)  | Rp 73/kg        | Rata-rata selisih mutlak prediksi vs aktual |
+| 2  | RMSE (Root Mean Sq. Error) | Rp 89/kg        | Akar rata-rata kuadrat error                |
+| 3  | R² Score                   | 0.9976 (99.76%) | Model menjelaskan 99.76% variasi harga      |
+| 4  | Data Training              | 136 sampel      | 80% dari total 170 data                     |
+| 5  | Data Testing               | 34 sampel       | 20% dari total 170 data                     |
