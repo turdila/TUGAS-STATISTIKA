@@ -1,0 +1,8 @@
+| No | Metrik               | Nilai  | Keterangan                                               |
+| -- | -------------------- | ------ | -------------------------------------------------------- |
+| 1  | Akurasi              | 97.06% | 33 dari 34 data testing berhasil diklasifikasi benar     |
+| 2  | Kernel               | RBF    | Radial Basis Function — cocok untuk data non-linear      |
+| 3  | Precision (Grade A)  | 100%   | Semua prediksi A terbukti benar                          |
+| 4  | Precision (Grade B)  | 92.3%  | Mayoritas prediksi B benar (1 dari 12 tertukar dengan A) |
+| 5  | Precision (Grade C)  | 100%   | Semua prediksi C terbukti benar                          |
+| 6  | F1-Score (rata-rata) | 0.97   | Harmonic mean precision dan recall                       |
