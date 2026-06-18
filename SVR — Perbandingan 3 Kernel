@@ -1,0 +1,5 @@
+| No | Kernel SVR | MAE       | RMSE      | R²     | CV R² (5-Fold) | Status         |
+| -- | ---------- | --------- | --------- | ------ | -------------- | -------------- |
+| 1  | Linear     | Rp 82/kg  | Rp 99/kg  | 99.70% | 99.69%         | ⭐ TERBAIK      |
+| 2  | RBF        | Rp 79/kg  | Rp 135/kg | 99.44% | 99.17%         | Baik           |
+| 3  | Polynomial | Rp 368/kg | Rp 505/kg | 92.21% | 93.42%         | Kurang Optimal |
